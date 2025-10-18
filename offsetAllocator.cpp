@@ -22,6 +22,7 @@
 #endif
 
 #include <cstring>
+#include <cstdint>
 
 namespace OffsetAllocator {
 inline uint32 lzcnt_nonzero(uint32 v) {
